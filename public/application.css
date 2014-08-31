@@ -1,0 +1,14 @@
+#hit_form {
+  float: left;
+  margin-right: 10px;
+}
+
+#stand_form {
+  float: left;
+}
+
+.card_image {
+	margin: 0 7px 7px 0;
+	width: 100px;
+	height: auto;
+}
